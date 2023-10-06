@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.example.mylibraryflowhandler'
-    compileSdk 33
+    compileSdk 31
 
     defaultConfig {
         minSdk 24
